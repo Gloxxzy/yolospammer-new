@@ -1,7 +1,3 @@
-const readline = require("readline").createInterface({
-  input: process.stdin,
-  output: process.stdout,
-});
 const nodeCmd = require("node-cmd");
 
 var messages = [
